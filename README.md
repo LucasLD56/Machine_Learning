@@ -13,16 +13,16 @@ Bienvenue dans le repository contenant l'ensemble des exercices réalisés dans 
   - Validation croisée et sélection de modèles.
 
 ### 2. **Réseaux de Neurones**
-- **Classification des images (MNIST)** :
+- **Classification des images** :
   - Modèle basé sur un réseau dense avec Keras.
   - Évaluation des performances avec des métriques comme la précision et le F1-score.
-- **Régression (California Housing)** :
-  - Implémentation d'un modèle de régression pour prédire les prix de logements.
+- **Régression** :
+  - Implémentation d'un modèle de régression.
   - Optimisation des hyperparamètres et visualisation des erreurs.
 
 ### 3. **Support Vector Machines (SVM)**
-- **Classification avec SVM (Breast Cancer)** :
-  - Implémentation d'un modèle SVM avec noyau RBF pour la classification des données de cancer du sein.
+- **Classification avec SVM** :
+  - Implémentation d'un modèle SVM avec noyau RBF pour la classification.
   - Interprétation globale du modèle avec :
     - Partial Dependence Plots (PDP) pour visualiser l'effet des variables.
     - Permutation Importance pour identifier les variables les plus influentes.
@@ -33,7 +33,7 @@ Bienvenue dans le repository contenant l'ensemble des exercices réalisés dans 
   - SHAP et LIME appliqués à des modèles complexes (SVM, Random Forest).
 
 ### 5. **Projets avancés**
-- **Projet final (en groupe)** :
+- **Projet final** :
   - Classification ou régression sur un dataset avec au moins 4000 observations.
   - Modèles utilisés : Random Forest, SVM, Régression linéaire.
   - Méthodes d'interprétation : SHAP, LIME, PDP, Permutation Importance.
